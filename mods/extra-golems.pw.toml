@@ -1,0 +1,13 @@
+name = "Extra Golems"
+filename = "extragolems-19.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e3befa72b1089639969b64840c16dd8fddca0c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4048702
+project-id = 233300

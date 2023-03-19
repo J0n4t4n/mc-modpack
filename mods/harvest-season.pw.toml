@@ -1,0 +1,13 @@
+name = "Harvest Season"
+filename = "harvestseason-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "912fe2e303c2b930c401e84f0595f30978fcbe96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4094339
+project-id = 694984

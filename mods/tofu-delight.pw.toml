@@ -1,0 +1,13 @@
+name = "Tofu Delight"
+filename = "tofudelight-1.19.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51fff23fe7d81ef575b11acf2f414f0befb2ec09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4429342
+project-id = 835619

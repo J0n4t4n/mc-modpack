@@ -1,0 +1,13 @@
+name = "Farming"
+author = "Jonatan Steuernagel"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "188014f82fb1cd25f50c540620c70fd0427e5963d9af317ced69a90c68edb9ac"
+
+[versions]
+forge = "43.2.7"
+minecraft = "1.19.2"
