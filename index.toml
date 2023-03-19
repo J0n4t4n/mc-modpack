@@ -26,11 +26,6 @@ hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
 
 [[files]]
-file = "mods/alexs-delight.pw.toml"
-hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
@@ -206,11 +201,6 @@ hash = "b8edd600ef2329ec3f75c6f2fff0649d328ecfcd89b6f6878c0da046ad5daf28"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights.pw.toml"
-hash = "610ad95829e81925004ed4a7b021959fc740129cab3eed854fc0ec609770f462"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
 metafile = true
@@ -267,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
 metafile = true
 
 [[files]]
@@ -338,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "82c1016ddee7c3c8dad7cb60e84fb9f7c1a99ca20c203bceebba9833a4c1d83f"
-metafile = true
-
-[[files]]
-file = "mods/frozen-delight.pw.toml"
-hash = "d519c3755f61745fdbf8b7ff07d8a880ab2b44d49cad2617b85c34c9c11b3846"
 metafile = true
 
 [[files]]
@@ -557,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
+hash = "0e8c5c67b4aa055e45c1ca99fd234bc74edcb9e5b62f2ceb7cf2d703b371e4da"
 metafile = true
 
 [[files]]
