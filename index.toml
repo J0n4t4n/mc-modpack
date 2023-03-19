@@ -371,11 +371,6 @@ hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "be6305aed53d7e919f1459fc85f2d6ed3a7dbb995412e940c5f09eb3a1cbf1ad"
-metafile = true
-
-[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "103bc0f527843010c5b4bf3b9f43697e4930b720ee0b4321396d35223f139457"
 metafile = true
