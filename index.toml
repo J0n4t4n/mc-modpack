@@ -56,11 +56,6 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bb48f014676f08d8a46749c72907ae3d466d4476818186885ae49619250644b"
 metafile = true
@@ -158,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "5201fe192d0ed308d48dacbc3cfbcc2895354b0a69bccc0daabba34c64c467c0"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
@@ -648,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
-metafile = true
-
-[[files]]
-file = "mods/solar-flux-reborn.pw.toml"
-hash = "d1ebfdb1dcf0e863beb7f316ef8c12e74780384f457e237d0fbe1b297e464847"
 metafile = true
 
 [[files]]
