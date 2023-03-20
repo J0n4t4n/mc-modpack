@@ -331,11 +331,6 @@ hash = "903937f8f4532be3ca2a749df02e72bc8a5b8602da7341d588539c5bdc8b2482"
 metafile = true
 
 [[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ebb3572b3c17848491cabbc3faef8e1533a7e93cc18493605fa86c0a2cc52e8f"
-metafile = true
-
-[[files]]
 file = "mods/flickerfix.pw.toml"
 hash = "07dea3aea9856bfcdbd53d18a6ef44b4a8c41893e934e7d72777d859b5e05280"
 metafile = true
