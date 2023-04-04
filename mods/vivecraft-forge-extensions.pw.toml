@@ -1,0 +1,13 @@
+name = "Vivecraft Forge Extensions"
+filename = "VivecraftForgeExtensions-1.19.2-1.3.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wMiLnMkE/versions/HiBfdnbp/VivecraftForgeExtensions-1.19.2-1.3.3.jar"
+hash-format = "sha1"
+hash = "8399a9fd00e6706044a36c7ce5c8f846990b06f4"
+
+[update]
+[update.modrinth]
+mod-id = "wMiLnMkE"
+version = "HiBfdnbp"

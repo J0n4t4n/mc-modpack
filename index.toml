@@ -841,6 +841,16 @@ hash = "c9af760098198e308122743f88ca094e600ecf86cbfa89e45470d993c4bfbfab"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft-forge-extensions.pw.toml"
+hash = "75cb3d12c707dc395aa06c3ee0e0416c278b53ed47b28f90f0e5e2313c943ed6"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "0e66c77c42d0cef56148b2c0691d36c4bf14d939cbd88e457a45236be1cdeb8e"
+metafile = true
+
+[[files]]
 file = "mods/xnet-gases.pw.toml"
 hash = "7bbca98cc1baf9f311284f115d6be79c28883e9e1081611c802d41b3bf07abaf"
 metafile = true
