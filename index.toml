@@ -441,13 +441,13 @@ hash = "53ebc3130e0d4c210d930b47e8be2ccd5f3221c7e4b6490d14e408f2a3ebdb3d"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "e650e0a0179c4878980dba815366b3b7e017a7b4f65cb5d6138bae6d02bac065"
+file = "mods/journeymap.pw.toml"
+hash = "cd4aeeb3c7eb8f29f5c07d9a74f70d14311e1d6093633a2d4b5c926c931ee0e5"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "cd4aeeb3c7eb8f29f5c07d9a74f70d14311e1d6093633a2d4b5c926c931ee0e5"
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
 metafile = true
 
 [[files]]
@@ -668,6 +668,31 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "5228a707c05ff3c093357ba94c7b92290af0bd9d10c0567bd232a728788d61af"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "654525742e8d42c9a6f6567823c0cf005ea4785116233e6530ec9f5ce4397eff"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "71db7ec1dc4a671e856c3b73e6ee017945a4df3c177dd7149a54a33b684b3466"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "672abef0a227961223b2f2e2d1508028c7ad2993b570adc71555f37d9be4ddc4"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "7d3c1de559ed73b86c31c27aefdd5cec7c91fcb69b580c1b3400c04f43b9ed58"
 metafile = true
 
 [[files]]
