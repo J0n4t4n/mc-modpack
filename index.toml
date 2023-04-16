@@ -351,6 +351,21 @@ hash = "a6b5c0a7e1992c9672f185cf88a7a63a6a25ed66d57e4f2c26f299b2b954594c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "9024f02745569f21538c4fec01d7927a981ea832cd4e55bedcde70cfbd62abfb"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "8cc76cce0b77e62ba5e3fc894e56c899202c73b1032045c34135a227df6da7a5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "f2f347366b136eec0278baa68557247a4e5c793867daa31e7810ae7bc26921aa"
+metafile = true
+
+[[files]]
 file = "mods/fuelgoeshere.pw.toml"
 hash = "707fa22314bbe97299783f923fe5fb797d26f2a38d9812e1bb0439719cf80020"
 metafile = true
