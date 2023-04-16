@@ -176,6 +176,11 @@ hash = "e79c0c7ce7d67628a19b74480d9d3fe0dfd2bf1cbb5505d167f033815c3d84a7"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "5963bb32f94cc28a4f4fee7e8b2f266acd9f5c394b043fdb944c735d3038a3f2"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
 metafile = true
@@ -401,11 +406,6 @@ hash = "561486b9308057a3bc85c935d93cfcceee25ed037c0f217d8770a8c311e28fde"
 metafile = true
 
 [[files]]
-file = "mods/hunting-delight.pw.toml"
-hash = "fc1d0012eb57b9b17170b05ff56205cbe16512a8c7573bae4eac5c52dc9461bc"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
@@ -433,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "4a93876a066e8438c79b3cdc2caa6c3fea38f4537a4378bec6bb43ec06cde9ef"
 metafile = true
 
 [[files]]
@@ -518,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
+metafile = true
+
+[[files]]
+file = "mods/mining-gadgets.pw.toml"
+hash = "51ea2cbc4057449678ab835c6a9ac4f6f5974aa36168a2236f5d16d13de40158"
 metafile = true
 
 [[files]]
